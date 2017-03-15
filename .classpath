@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Aditya/Desktop/aws sdk/aws-android-sdk-2.3.9/lib/aws-android-sdk-apigateway-core-2.3.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Aditya/Desktop/aws sdk/aws-android-sdk-2.3.9/lib/aws-android-sdk-autoscaling-2.3.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Aditya/Desktop/aws sdk/aws-android-sdk-2.3.9/lib/aws-android-sdk-cloudwatch-2.3.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Aditya/Desktop/aws sdk/aws-android-sdk-2.3.9/lib/aws-android-sdk-cognitoidentityprovider-2.3.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Aditya/Desktop/aws sdk/aws-android-sdk-2.3.9/lib/aws-android-sdk-ec2-2.3.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Aditya/Desktop/aws sdk/aws-android-sdk-2.3.9/lib/aws-android-sdk-elb-2.3.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Aditya/Desktop/aws sdk/aws-android-sdk-2.3.9/lib/aws-android-sdk-iot-2.3.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Aditya/Desktop/aws sdk/aws-android-sdk-2.3.9/lib/aws-android-sdk-kinesis-2.3.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Aditya/Desktop/aws sdk/aws-android-sdk-2.3.9/lib/aws-android-sdk-kms-2.3.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Aditya/Desktop/aws sdk/aws-android-sdk-2.3.9/lib/aws-android-sdk-lambda-2.3.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Aditya/Desktop/aws sdk/aws-android-sdk-2.3.9/lib/aws-android-sdk-machinelearning-2.3.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Aditya/Desktop/aws sdk/aws-android-sdk-2.3.9/lib/aws-android-sdk-mobileanalytics-2.3.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Aditya/Desktop/aws sdk/aws-android-sdk-2.3.9/lib/aws-android-sdk-pinpoint-2.3.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Aditya/Desktop/aws sdk/aws-android-sdk-2.3.9/lib/aws-android-sdk-polly-2.3.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Aditya/Desktop/aws sdk/aws-android-sdk-2.3.9/lib/aws-android-sdk-rekognition-2.3.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Aditya/Desktop/aws sdk/aws-android-sdk-2.3.9/lib/aws-android-sdk-s3-2.3.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Aditya/Desktop/aws sdk/aws-android-sdk-2.3.9/lib/aws-android-sdk-sdb-2.3.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Aditya/Desktop/aws sdk/aws-android-sdk-2.3.9/lib/aws-android-sdk-ses-2.3.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Aditya/Desktop/aws sdk/aws-android-sdk-2.3.9/lib/aws-android-sdk-sns-2.3.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Aditya/Desktop/aws sdk/aws-android-sdk-2.3.9/lib/aws-android-sdk-sqs-2.3.9.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
